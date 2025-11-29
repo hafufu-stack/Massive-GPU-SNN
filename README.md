@@ -20,3 +20,10 @@ Targeting high-end consumer GPUs like the **NVIDIA RTX 5080 Laptop GPU**.
 2. Run the script:
    ```bash
    python snn_gpu.py
+
+## 📝 Note
+This is an experimental project to test the limits of consumer hardware for neuromorphic computing.
+Pull requests and ideas are welcome!
+
+## 📜 License
+MIT License

@@ -27,3 +27,6 @@ Pull requests and ideas are welcome!
 
 ## 📜 License
 MIT License
+
+## 👤 Author
+[note](https://note.com/cell_activation/m/m5bf070b82882)
